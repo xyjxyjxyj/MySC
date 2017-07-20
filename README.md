@@ -1,0 +1,2 @@
+# MySC
+smart_contract
